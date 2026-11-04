@@ -7,7 +7,7 @@ const experience = [
       "Gained hands-on experience in full stack development through practical assignments and projects. Served as Team Lead on a collaborative CRM project and independently developed and deployed a full stack ecommerce application.\nWorked with React, Next.js, JavaScript, TypeScript, Python, Django, REST APIs and PostgreSQL, using HTML, CSS, Bootstrap, Material UI and Redux Toolkit to build responsive interfaces and manage application state.",
   },
   {
-    role: "Temenos Programmer",
+    role: "Software Engineer",
     organisation: "VPRO Technologies & Pvt Ltd",
     period: "09/06/2023-30/05/2024",
     description:
